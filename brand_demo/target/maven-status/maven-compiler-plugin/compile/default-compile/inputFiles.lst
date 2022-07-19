@@ -1,0 +1,15 @@
+D:\IDEA project\brand_demo\src\main\java\com\itheima\mapper\BrandMapper.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\pojo\User.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\service\UserService.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\web\AddServlet.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\service\BrandService.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\web\RegisterServlet.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\web\SelectAllServlet.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\web\LoginServlet.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\mapper\UserMapper.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\pojo\Brand.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\util\SqlSessionFactoryUtils.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\web\CheckCodeServlet.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\util\CheckCodeUtil.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\web\SelectByIdServlet.java
+D:\IDEA project\brand_demo\src\main\java\com\itheima\web\UpdateServlet.java
